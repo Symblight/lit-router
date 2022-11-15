@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@vaadin/router": "^1.7.4",
+    "effector": "^22.4.0",
     "lit": "^2.0.2"
   },
   "devDependencies": {
